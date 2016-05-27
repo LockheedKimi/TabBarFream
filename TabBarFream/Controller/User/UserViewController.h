@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UserViewController.h
 //  TabBarFream
 //
 //  Created by kimi.zhang on 16/4/29.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface UserViewController : UIViewController
 
 @end
-
